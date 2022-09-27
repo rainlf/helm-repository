@@ -3,12 +3,12 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-27T17:23:30.8972083+08:00"
+    created: "2022-09-27T17:26:33.5613801+08:00"
     description: A Helm chart for Kubernetes
     digest: 4388abd5ebd2c09fef0b9e0ccbdf601c33b97acdb4edc2fd0a9985fcb955c85c
     name: test
     type: application
     urls:
-    - https://github.com/rainlf/helm-repository/test-0.1.0.tgz
+    - https://rainlf.github.com/helm-repository/test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-27T17:23:30.896163+08:00"
+generated: "2022-09-27T17:26:33.5603622+08:00"
